@@ -9,5 +9,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.librity.checkpermission</groupId>
   <artifactId>checkpermission</artifactId>
-  <version>4.0</version>
+  <version>1.0</version>
 </project>
